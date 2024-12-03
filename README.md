@@ -53,12 +53,12 @@
 |  ；  |       分号       |     FF1B     |
 |  ？  |       问号       |     FF1F     |
 
-更多的格式请在 release 下载。
+更多的格式请在 [release](https://github.com/bosswnx/huiwenmincho-improved/releases) 下载。
 
 TODO:
 
-- [] 修正一些符号的位置（例如「」）
-- [] 动态宽度
+- [ ] 修正一些符号的位置（例如「」）
+- [ ] 动态宽度
 
 也欢迎各位参与贡献~ :) 
 
